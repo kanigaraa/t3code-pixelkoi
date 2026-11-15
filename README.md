@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🎏 Pixel-Koi Pond
+  <img src="pixel-koi-pond-icon.svg" alt="Pixel-Koi Pond pixel-art koi logo" width="144" />
+
+# Pixel-Koi Pond
 
 **An animated pixel-art koi pond theme for [T3 Code](https://t3.codes)**
 
