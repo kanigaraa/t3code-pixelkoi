@@ -8,7 +8,7 @@
 
 A pixel-art theme for [T3 Code](https://t3.codes). Koi swim behind the chat, and a small frog follows your cursor while you type.
 
-[![Pixel Koi Pond Theme for T3 Code](assets/preview.gif)](assets/demo.mp4)
+<p align="center"><a href="assets/demo.mp4"><img src="assets/preview.gif" alt="Pixel Koi Pond Theme for T3 Code" /></a></p>
 
 It comes in two versions: a dark one with night water and a light one with shallow green water.
 
