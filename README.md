@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="pixel-koi-pond-icon.svg" alt="Pixel-Koi Pond pixel-art koi logo" width="144" />
+  <img src="assets/pixel-koi-pond-icon.svg" alt="Pixel-Koi Pond pixel-art koi logo" width="144" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 A pixel-art theme for [T3 Code](https://t3.codes). Koi swim behind the chat, and a small frog follows your cursor while you type.
 
-![Pixel Koi Pond Theme for T3 Code](assets/preview.gif)
+[![Pixel Koi Pond Theme for T3 Code, click to play the video](assets/dark.png)](assets/demo.mp4)
 
 It comes in two versions: a dark one with night water and a light one with shallow green water.
 
@@ -18,8 +18,8 @@ It comes in two versions: a dark one with night water and a light one with shall
 
 ## Files
 
-- [`pixel-koi-pond.json`](pixel-koi-pond.json) is the dark theme, id `pixelkoi`.
-- [`pixel-koi-pond-light.json`](pixel-koi-pond-light.json) is the light theme, id `pixelkoi-light`.
+- [`pixel-koi-pond.json`](themes/pixel-koi-pond.json) is the dark theme, id `pixelkoi`.
+- [`pixel-koi-pond-light.json`](themes/pixel-koi-pond-light.json) is the light theme, id `pixelkoi-light`.
 
 ## Install
 
