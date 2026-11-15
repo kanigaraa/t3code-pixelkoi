@@ -2,9 +2,9 @@
 
   <img src="assets/pixel-koi-pond-icon.svg" alt="Pixel-Koi Pond pixel-art koi logo" width="144" />
 
-</div>
-
 # Pixel Koi Pond
+
+</div>
 
 A pixel-art theme for [T3 Code](https://t3.codes). Koi swim behind the chat, and a small frog follows your cursor while you type.
 
