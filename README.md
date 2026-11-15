@@ -1,17 +1,26 @@
 # Pixel-Koi Pond
 
-An animated pixel-art theme for [T3 Code](https://github.com/pingdotgg/t3code).
+Two T3 Code theme variants built around the same animated pixel-art koi lake.
 
-Clear jade shallows transition into deep teal water, with shoreline stones and four swimming koi. A small pixel ripple appears near each koi’s head when it pauses to feed. Pixel-edged chat bubbles keep conversations readable.
+## Dark
 
-**Theme ID:** `pixelkoi`
+Theme file: [`pixel-koi-pond.json`](pixel-koi-pond.json)
+Theme ID: `pixelkoi`
+
+## Light
+
+The light variant keeps the koi, rocks, and swim animations, with brighter jade shallows and light interface surfaces.
+
+Theme file: [`pixel-koi-pond-light.json`](pixel-koi-pond-light.json)
+Theme ID: `pixelkoi-light`
 
 ## Install
 
-In T3 Code, open **Settings → Appearance → Import** and select `pixel-koi-pond.json`.
+In T3 Code, open **Settings → Appearance → Import** and select either JSON file.
 
-To install manually, copy the file into `~/.t3/userdata/themes/`, then select it:
+To install manually, copy a JSON file into `~/.t3/userdata/themes/`, then select its ID:
 
 ```sh
 t3 theme set pixelkoi
+t3 theme set pixelkoi-light
 ```
